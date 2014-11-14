@@ -1,11 +1,10 @@
 <?php if (! defined ( 'BASEPATH' )) exit ( 'No direct script access allowed' );
 
 /**
-   * Tracks
+   * Payment
    * 
-   * 
-   * @package    REST_Controller
-   * @subpackage Tracks
+   * @package    MY_Controller
+   * @subpackage Payment
    * @author     Bruno Nunes <newjob@brunodev.com.br>
    */
 	class Payment extends MY_Controller 
