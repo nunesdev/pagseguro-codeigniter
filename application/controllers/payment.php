@@ -32,10 +32,8 @@
 			/* Dados Compra */
 			$items = array();
 			
-			$course = getCourse($course_id);
-			
 			$items[] = array(
-					'description' => $course->title,
+					'description' => 'Produto 1',
 					'amount' => '1400.00',
 					'quantity' => 1
 					);
