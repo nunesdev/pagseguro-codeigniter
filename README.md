@@ -5,7 +5,8 @@ Integração pagseguro library, com codeigniter
 
 # Configuração
 `sandbox` ou `production`
-$config['pagseguro']['environment'] = 'production';  
+$config['pagseguro']['environment'] = 'production';  <br/>
+
  -------------------------- PRODUCTION -------------------------------------- 
 $config['pagseguro']['production']['pagseguroAccount'] = ''; <br/>
 $config['pagseguro']['production']['pagseguroToken'] = '';<br/>
