@@ -7,7 +7,7 @@ https://sandbox.pagseguro.uol.com.br/
 `sandbox` ou `production`<br/>
 $config['pagseguro']['environment'] = 'production';  <br/>
 
- -------------------------- PRODUCTION -------------------------------------- 
+ -------------------------- PRODUCTION -------------------------------------- <br/>
 $config['pagseguro']['production']['pagseguroAccount'] = ''; <br/>
 $config['pagseguro']['production']['pagseguroToken'] = '';<br/>
 $config['pagseguro']['production']['purchaserTest']['name']  = 'João Silva';<br/>
@@ -15,7 +15,8 @@ $config['pagseguro']['production']['purchaserTest']['ddd']  = '11';<br/>
 $config['pagseguro']['production']['purchaserTest']['phone']  = '66666666';<br/>
 $config['pagseguro']['production']['purchaserTest']['email'] = 'email_producao@email.com.br';<br/>
 $config['pagseguro']['production']['purchaserTest']['pass']  = 'senha_producao';<br/>
- ---------------------- SANDBOX - AMBIENTE DE TESTE ------------------------- 
+
+ ---------------------- SANDBOX - AMBIENTE DE TESTE ------------------------- <br/>
 $config['pagseguro']['sandbox']['pagseguroAccount'] = '';<br/>
 $config['pagseguro']['sandbox']['pagseguroToken'] = '';<br/>
 $config['pagseguro']['sandbox']['purchaserTest']['name']  = 'João Silva';<br/>
