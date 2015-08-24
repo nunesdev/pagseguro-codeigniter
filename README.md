@@ -1,10 +1,10 @@
 pagseguro-codeigniter
 =====================
 
-Integração pagseguro library, com codeigniter
+# Integração pagseguro library, com codeigniter
 
-# Configuração
-`sandbox` ou `production`
+## Configuração
+`sandbox` ou `production`<br/>
 $config['pagseguro']['environment'] = 'production';  <br/>
 
  -------------------------- PRODUCTION -------------------------------------- 
