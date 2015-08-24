@@ -1,4 +1,5 @@
 # Integração pagseguro library, com codeigniter
+`https://sandbox.pagseguro.uol.com.br/`
 
 ## Configuração
 `sandbox` ou `production`<br/>
